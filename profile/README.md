@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://get-software-osx.github.io/.github/qurkexpress">  
+<a href="https://instal-apps-osx.github.io/.github/quarkexpressmac">  
 <img src="https://img.shields.io/badge/Get_QuarkXPress_for_macOS-007AFF?style=for-the-badge&logo=apple" alt="Get QuarkXPress for macOS">  
 </a>  
 </div>  
